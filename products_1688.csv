@@ -1,0 +1,51 @@
+product_id,product_name,category,supplier_name,unit_cost_rmb,weight_kg
+PROD-1001,Fashion & Apparel Item 1,Fashion & Apparel,Guangzhou Fashion Hub Ltd.,70.28,1.39
+PROD-1002,Home & Kitchen Item 2,Home & Kitchen,Foshan Hardware & Beauty Co.,160.72,3.38
+PROD-1003,Phone Accessories Item 3,Phone Accessories,Ningbo Household Goods Ltd.,273.99,3.07
+PROD-1004,Phone Accessories Item 4,Phone Accessories,Ningbo Household Goods Ltd.,81.68,0.42
+PROD-1005,Home & Kitchen Item 5,Home & Kitchen,Ningbo Household Goods Ltd.,234.95,1.78
+PROD-1006,Home & Kitchen Item 6,Home & Kitchen,Foshan Hardware & Beauty Co.,127.94,1.36
+PROD-1007,Beauty Tools Item 7,Beauty Tools,Guangzhou Fashion Hub Ltd.,229.15,1.37
+PROD-1008,Beauty Tools Item 8,Beauty Tools,Guangzhou Fashion Hub Ltd.,196.2,2.7
+PROD-1009,Home & Kitchen Item 9,Home & Kitchen,Ningbo Household Goods Ltd.,139.2,3.39
+PROD-1010,Home & Kitchen Item 10,Home & Kitchen,Shenzhen Tech Export Co.,111.0,0.42
+PROD-1011,Phone Accessories Item 11,Phone Accessories,Foshan Hardware & Beauty Co.,212.56,1.74
+PROD-1012,Electronics Item 12,Electronics,Guangzhou Fashion Hub Ltd.,63.19,1.98
+PROD-1013,Phone Accessories Item 13,Phone Accessories,Yiwu Small Commodities Trading Co.,193.08,1.61
+PROD-1014,Phone Accessories Item 14,Phone Accessories,Yiwu Small Commodities Trading Co.,142.78,2.17
+PROD-1015,Home & Kitchen Item 15,Home & Kitchen,Guangzhou Fashion Hub Ltd.,151.97,0.79
+PROD-1016,Home & Kitchen Item 16,Home & Kitchen,Yiwu Small Commodities Trading Co.,132.0,0.88
+PROD-1017,Home & Kitchen Item 17,Home & Kitchen,Shenzhen Tech Export Co.,165.52,3.2
+PROD-1018,Phone Accessories Item 18,Phone Accessories,Foshan Hardware & Beauty Co.,71.47,3.17
+PROD-1019,Phone Accessories Item 19,Phone Accessories,Guangzhou Fashion Hub Ltd.,64.54,0.9
+PROD-1020,Fashion & Apparel Item 20,Fashion & Apparel,Shenzhen Tech Export Co.,214.44,2.59
+PROD-1021,Fashion & Apparel Item 21,Fashion & Apparel,Ningbo Household Goods Ltd.,131.92,1.64
+PROD-1022,Home & Kitchen Item 22,Home & Kitchen,Shenzhen Tech Export Co.,82.75,2.64
+PROD-1023,Phone Accessories Item 23,Phone Accessories,Guangzhou Fashion Hub Ltd.,235.52,1.09
+PROD-1024,Beauty Tools Item 24,Beauty Tools,Guangzhou Fashion Hub Ltd.,176.67,2.45
+PROD-1025,Home & Kitchen Item 25,Home & Kitchen,Shenzhen Tech Export Co.,75.63,1.63
+PROD-1026,Beauty Tools Item 26,Beauty Tools,Ningbo Household Goods Ltd.,233.8,0.34
+PROD-1027,Phone Accessories Item 27,Phone Accessories,Guangzhou Fashion Hub Ltd.,154.95,2.93
+PROD-1028,Electronics Item 28,Electronics,Guangzhou Fashion Hub Ltd.,46.25,3.45
+PROD-1029,Home & Kitchen Item 29,Home & Kitchen,Guangzhou Fashion Hub Ltd.,219.82,0.98
+PROD-1030,Home & Kitchen Item 30,Home & Kitchen,Ningbo Household Goods Ltd.,74.07,0.21
+PROD-1031,Beauty Tools Item 31,Beauty Tools,Guangzhou Fashion Hub Ltd.,164.41,0.76
+PROD-1032,Beauty Tools Item 32,Beauty Tools,Shenzhen Tech Export Co.,49.93,2.98
+PROD-1033,Beauty Tools Item 33,Beauty Tools,Guangzhou Fashion Hub Ltd.,108.01,3.39
+PROD-1034,Electronics Item 34,Electronics,Guangzhou Fashion Hub Ltd.,119.32,2.37
+PROD-1035,Fashion & Apparel Item 35,Fashion & Apparel,Ningbo Household Goods Ltd.,229.29,2.96
+PROD-1036,Home & Kitchen Item 36,Home & Kitchen,Foshan Hardware & Beauty Co.,199.56,2.13
+PROD-1037,Electronics Item 37,Electronics,Ningbo Household Goods Ltd.,119.85,2.37
+PROD-1038,Electronics Item 38,Electronics,Foshan Hardware & Beauty Co.,268.51,2.15
+PROD-1039,Phone Accessories Item 39,Phone Accessories,Ningbo Household Goods Ltd.,91.43,1.82
+PROD-1040,Electronics Item 40,Electronics,Shenzhen Tech Export Co.,224.35,1.63
+PROD-1041,Fashion & Apparel Item 41,Fashion & Apparel,Yiwu Small Commodities Trading Co.,81.88,1.77
+PROD-1042,Home & Kitchen Item 42,Home & Kitchen,Foshan Hardware & Beauty Co.,234.41,0.72
+PROD-1043,Phone Accessories Item 43,Phone Accessories,Ningbo Household Goods Ltd.,154.01,1.71
+PROD-1044,Phone Accessories Item 44,Phone Accessories,Guangzhou Fashion Hub Ltd.,76.47,1.42
+PROD-1045,Fashion & Apparel Item 45,Fashion & Apparel,Shenzhen Tech Export Co.,261.01,0.63
+PROD-1046,Electronics Item 46,Electronics,Ningbo Household Goods Ltd.,131.68,1.68
+PROD-1047,Phone Accessories Item 47,Phone Accessories,Yiwu Small Commodities Trading Co.,224.26,1.7
+PROD-1048,Fashion & Apparel Item 48,Fashion & Apparel,Yiwu Small Commodities Trading Co.,246.51,1.27
+PROD-1049,Beauty Tools Item 49,Beauty Tools,Yiwu Small Commodities Trading Co.,183.75,2.64
+PROD-1050,Electronics Item 50,Electronics,Ningbo Household Goods Ltd.,165.61,3.48
