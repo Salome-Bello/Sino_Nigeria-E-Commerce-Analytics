@@ -4,8 +4,6 @@ An SQL and Power BI analysis of revenue, net profit, freight cost and shipping m
 
 > **Data note:** This project uses a **simulated dataset** that I designed to model a China-to-Nigeria import business, based on my experience importing directly from 1688. It does not contain real customer, supplier or financial records. The values are modelled at a larger scale than my own business and are meant to demonstrate analytical method and dashboard design, so they should not be read as real market or business figures.
 
-<!-- Add this line once you have a screenshot: ![Dashboard overview](images/dashboard.png) -->
-
 ---
 
 ## Business Problem
@@ -28,22 +26,18 @@ This project brings the data into one view to answer:
 | Size | 500 orders |
 | Period | 12 months (January to December) |
 | Categories | Home & Kitchen, Phone Accessories, Beauty Tools, Electronics, Fashion & Apparel |
-| Key fields | [Confirm and edit: order ID, date, product, category, supplier, units, weight per unit, shipping method, freight cost, revenue, net profit] |
+| Key fields | order ID, date, product, category, supplier, units, weight per unit, shipping method, freight cost, revenue, net profit] |
 | Currency | Nigerian Naira (₦) |
-
-**How the data was created:** a Python script (`[script_name].py`) [generates / cleans / analyses] the dataset using [Pandas / NumPy], with realistic price ranges, weights and freight rates based on my experience importing from 1688. [Edit this sentence to say what your script really does.]
 
 ## Tools Used
 
-- **Python ([Pandas / NumPy / Matplotlib]):** [what the script does, for example creating the simulated dataset or cleaning and exploring it]
-- **SQL ([MySQL / PostgreSQL / SQL Server]):** querying and aggregating the order data
-- **Power BI Desktop:** data modelling, DAX measures and the interactive dashboard
+- **Python 
+- **SQL ([MSSQL):
+- **Power BI Desktop
 
 ## SQL Analysis
 
 All queries are in the `sql/` folder.
-
-[Edit this table so it matches the queries you actually wrote, and delete any row that does not apply.]
 
 | Business question | SQL concepts used |
 |---|---|
@@ -97,34 +91,12 @@ All queries are in the `sql/` folder.
 - Review pricing on categories where transportation cost takes a large share of revenue.
 - Plan restocking around the lower revenue months so cash is not tied up in unsold stock.
 
-## How to Use
-
-1. Download the repository.
-2. Open `[Your_File_Name].pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
-3. Use the slicers to filter every visual.
-4. To run the Python script, install Python and the libraries it uses (for example `pip install pandas numpy`), then run `python [script_name].py`.
-5. To run the SQL, load the data file into a database and run the queries in the `sql/` folder.
-
-## Repository Structure
-
-```
-├── [Your_File_Name].pbix
-├── data/
-│   └── [dataset_name].csv
-├── python/
-│   └── [script_name].py
-├── sql/
-│   └── [queries].sql
-├── images/
-│   └── dashboard.png
-└── README.md
 ```
 
 ## Limitations
 
 - The data is simulated, so patterns reflect my assumptions and not real market behaviour.
 - The model does not include customs delays, exchange-rate movements or supplier quality problems, which affect real importers.
-- Order values are modelled at a larger scale than a small importer's real operations.
 
 ## Future Improvements
 
